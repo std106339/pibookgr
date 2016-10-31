@@ -8,6 +8,6 @@ show_meta: false
 categories: 
     - quotes
 tags:
-    - synthesis
+    - man
     - J.F.Kennedy
 ---
