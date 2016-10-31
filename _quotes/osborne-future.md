@@ -1,6 +1,6 @@
 ---
 title: osborne-ubiquitous
-text: 'The future'
+text: 'The future lies in designing and selling computers that people don't realize are computer at all.'
 person: Adam Osborne
 layout: quote
 header: no
