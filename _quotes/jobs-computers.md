@@ -1,6 +1,6 @@
 ---
 title: jobs-computers
-text: 'Είναι πολύ δύσκολο να σχεδιάζεις νέα προϊόντα με την βοήθεια ομάδων εστίασης. Πολλές φορές οι άνθρωποι δεν ξέρουν τι θέλουν μέχρι να τους το δείξεις.'
+text: 'Computers themselves, and software yet to be developed, will revolutionize the way will learn.'
 person: Steve Jobs
 layout: quote
 header: no
