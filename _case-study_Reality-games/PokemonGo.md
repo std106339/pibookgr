@@ -1,0 +1,5 @@
+# Pokémon Go
+
+It’s official: Pokémon Go has taken the American by storm! Produced as a joint venture between Niantic, The Pokémon Company and Nintendo, Pokémon Go has been nothing less than a cultural phenomena since it’s release in early July. The game has spawned dozens of news stories, seen mobs of people playing it in public, and is so popular the game’s servers keep crashing under the strain. While there is some debate about whether or not Pokémon Go is a true AR experience, the game is close enough to the real thing that it’s being credited with bringing Augmented Reality to the masses for the first time. A number of Marxent employees have been playing, and their enthusiasm only continues to grow. That said, Marxent AR Developer Patrick Rasmussen got an interesting reaction when demoing Pokémon Go for his significant other. “When I showed my wife me walking around my apartment on the map system in Go last night she said that was creepy,” he reports.
+
+https://www.youtube.com/watch?v=2sj2iQyBTQs&feature=youtu.be&t=9
