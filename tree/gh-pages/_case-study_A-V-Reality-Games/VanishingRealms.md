@@ -1,0 +1,5 @@
+# Vanishing Realms
+
+Vanishing Realms gets my vote.  While Vanishing Realms is still in early access, the developer is using an episodic content release schedule, which means the first two chapters are out now (providing 3-4 hours of content) and other chapters will follow in the coming months. Project Engineer Chris Jones has been playing Vanishing Realms, and says “The mechanics and overall feel of the gameplay is fantastic. Sword/shield combat, bow and arrow, or using magic — it all *feels* great. The haptic feedback of the Vive controllers add a lot to the experience of fighting enemies. The game itself feels like a combo of Dungeons & Dragons and The Legend of Zelda, with the art style coming across as very Torchlight-y.” Chris’ final take: “The game looks, performs, and plays great. Plus, you get a decent workout playing through it! While the game progression flows very linearly, there’s honestly a good amount of replay value in just letting other players try it out. It’s a very entertaining title to both play and to watch. It’s easily the most interactive and immersive VR experience I’ve had.”
+
+https://www.youtube.com/watch?v=lxzjlI2sqQQ&feature=youtu.be
